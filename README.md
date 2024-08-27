@@ -5,3 +5,4 @@ Introduction:Based on the yolov7 and openseeface open source library, we impleme
 
 ## Implementation framework ##
 In the implementation framework, we frame draw the obtained video images, for the obtained video frames are checked for anomalies, and if there are more than three consecutive seconds of anomalous behaviours, they are judged as fatigue driving behaviours.
+![image](https://github.com/Cadezzyr/Fatigued-driving-based-on-yolov7/blob/main/video/frame1.png)
